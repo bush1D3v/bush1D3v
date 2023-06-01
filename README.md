@@ -1,9 +1,12 @@
 # Bem-vindo(a) ao perfil do Bushi 🐱‍👤
 
+<details open>
+<summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
 <div>
   <a href="https://github.com/bush1D3v">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bush1D3v&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bush1D3v&layout=compact&langs_count=6&theme=tokyonight"/>
+</details>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
