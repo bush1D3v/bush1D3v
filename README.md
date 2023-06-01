@@ -16,7 +16,7 @@
   ### Pra conteúdo sobre programação, me siga nas redes abaixo!
  
 <div> 
-  [go](https://instagram.com/victorj.021?igshid=MzNlNGNkZWQ4Mg==){:target="_blank"}
+
   <a href="https://instagram.com/victorj.021?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://discord.gg/f65nxQt7UV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a href = "mailto:victor.jose.lopes.navarro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
