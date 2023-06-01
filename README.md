@@ -4,8 +4,10 @@
 <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
 <div>
   <a href="https://github.com/bush1D3v">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bush1D3v&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bush1D3v&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=bush1D3v&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=bush1D3v&layout=compact&langs_count=6&theme=tokyonight"/>
+    
+   [![GitHub Streak](https://streak-stats.demolab.com?user=bush1D3v&theme=tokyonight&fire=EB5454&border=FFFFFF)](https://github.com/bush1D3v)
 </details>
 </div>
 <div style="display: inline_block"><br>
@@ -27,6 +29,6 @@
  
   ![Snake animation](https://github.com/bush1D3v/bush1D3v/blob/output/github-contribution-grid-snake.svg)
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=bush1D3v&theme=tokyonight&fire=EB5454&border=FFFFFF)](https://github.com/bush1D3v)
+  
   
 </div>
