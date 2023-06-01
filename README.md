@@ -24,4 +24,6 @@
  
   ![Snake animation](https://github.com/bush1D3v/bush1D3v/blob/output/github-contribution-grid-snake.svg)
 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=bush1D3v&theme=tokyonight&fire=EB5454&border=FFFFFF)](https://github.com/bush1D3v)
+  
 </div>
