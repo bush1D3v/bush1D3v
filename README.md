@@ -6,8 +6,6 @@
   <a href="https://github.com/bush1D3v">
   <img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=bush1D3v&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=bush1D3v&layout=compact&langs_count=6&theme=tokyonight"/>
-    
-   [![GitHub Streak](https://streak-stats.demolab.com?user=bush1D3v&theme=tokyonight&fire=EB5454&border=FFFFFF)](https://github.com/bush1D3v)
 </details>
 </div>
 <div style="display: inline_block"><br>
@@ -28,7 +26,5 @@
   <a href="https://www.linkedin.com/in/victor-jos%C3%A9-763345279" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  
   ![Snake animation](https://github.com/bush1D3v/bush1D3v/blob/output/github-contribution-grid-snake.svg)
-
-  
   
 </div>
