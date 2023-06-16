@@ -17,7 +17,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 
 
-- 🔭 Atualmente estou estudando para me **tornar um Desenvolvedor Fullstack**.
+- 🔭 Estou estudando para me **tornar um Desenvolvedor Fullstack**.
 
 - 🌱 Atualmente estou aprendendo **React**.
 
