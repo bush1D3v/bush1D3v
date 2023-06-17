@@ -1,4 +1,4 @@
-![Screenshot_5 (2)](https://github.com/bush1D3v/bush1D3v/assets/133554156/2a35925e-79c1-4d91-93fb-530a644aaaaf)
+![Screenshot_1 (2)](https://github.com/bush1D3v/bush1D3v/assets/133554156/70834a12-43d1-43c4-bc9f-99961838480e)
 
 <p align="center">
 Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver aplicativos da Web escaláveis, de fácil manutenção e fáceis de usar que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
