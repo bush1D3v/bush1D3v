@@ -1,4 +1,4 @@
-![Screenshot_1 (2)](https://github.com/bush1D3v/bush1D3v/assets/133554156/70834a12-43d1-43c4-bc9f-99961838480e)
+![Screenshot_1](https://github.com/bush1D3v/bush1D3v/assets/133554156/c3e41485-3392-40de-a946-e927abe8f1a6)
 
 <p align="center">
 Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver aplicativos da Web escaláveis, de fácil manutenção e fáceis de usar que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
@@ -21,7 +21,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 - 🌱 Atualmente estou aprendendo **React**.
 
-- 🔍 Dê uma olhada nos meus pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/bush1D3v)!.
+- 🔍 Dê uma olhada nos meus pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/bush1D3v)!
 
 - 📫 Como me contatar: **victor.jose.lopes.navarro@gmail.com**.
 
