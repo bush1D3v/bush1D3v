@@ -66,8 +66,9 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
-![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-%23404d59?style=for-the-badge&logo=redux)&nbsp;
+<!-- ![Redux](https://img.shields.io/badge/-Redux-00C4CC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=for-the-badge&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp; -->
 </details>
     
 <details open>
@@ -75,14 +76,15 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 <br>
 
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+<!-- ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-5F3DC4?style=for-the-badge&logo=jest&logoColor=white)&nbsp; -->
 </details>
 
 <details open>
 <summary><b>🗄️ Database</b></summary>
 <br>
 
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
+<!-- ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp; -->
 </details>
 
 <details open>
