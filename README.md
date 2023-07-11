@@ -41,7 +41,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 ## 📈 Conquistas
 
-- 🎉 4 Meses de **Estudos Focados**, sem parar um dia.
+- 🎉 5 Meses de **Estudos Focados**, sem parar um dia.
 - 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo e Hashtag Programação**.
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
