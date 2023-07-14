@@ -130,6 +130,4 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 </p>
 </details>
 
-<br>
-  
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
