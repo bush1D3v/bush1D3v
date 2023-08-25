@@ -42,7 +42,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 ## 📈 Conquistas
 
 - 🎉 6 Meses de **Estudos Focados**, sem parar um dia.
-- 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo e Hashtag Programação**.
+- 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo, Hashtag Programação, Dev Quest, DIO e Cubos Academy**.
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
 
