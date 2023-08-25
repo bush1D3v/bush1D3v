@@ -25,7 +25,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 - 📫 Como me contatar: **victor.jose.lopes.navarro@gmail.com**.
 
-- 💬 Me pergunte sobre **HTML e CSS**.
+- 💬 Me pergunte sobre **JavaScript**.
 
 - 🤝 Estou procurando ajuda para aprender sobre **Sites Acessíveis**.
 
