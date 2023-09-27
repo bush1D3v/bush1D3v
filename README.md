@@ -19,7 +19,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 - 🔭 Estou estudando para me **tornar um Desenvolvedor Fullstack**.
 
-- 🌱 Atualmente estou aprendendo **React**.
+- 🌱 Atualmente estou aprendendo **Angular e TypeScript**.
 
 - 🔍 Dê uma olhada nos meus pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/bush1D3v)!
 
@@ -43,7 +43,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 - 🎉 7 Meses de **Estudos Focados**, sem parar um dia.
 - 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo, Hashtag Programação, Dev Quest, DIO e Cubos Academy**.
-- 🏆 Fui selecionado para participar do **Bootcamp Santander**, e passei no processo seletivo de uma **Bolsa do Ifood**.
+- 🏆 Fui selecionado para participar do **Bootcamp Santander** e passei no processo seletivo de uma **Bolsa do Ifood**.
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
 
