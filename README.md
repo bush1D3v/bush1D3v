@@ -37,7 +37,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 ## 📈 Conquistas
 
-- 🎉 7 Meses de **Estudos Focados**, sem parar um dia.
+- 🎉 Desde 2023 com **Estudos Focados**, sem parar um dia.
 - 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo, Hashtag Programação, Dev Quest, DIO e Cubos Academy**.
 - 🏆 Fui selecionado para participar do **Bootcamp Santander** e passei no processo seletivo de uma **Bolsa do Ifood**.
 
