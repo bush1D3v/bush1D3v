@@ -15,7 +15,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 - 🔭 Estou estudando para me **tornar um Desenvolvedor Fullstack**.
 
-- 🌱 Atualmente estou aprendendo **Angular e TypeScript**.
+- 🌱 Atualmente estou aprendendo **PHP**.
 
 - 🔍 Dê uma olhada nos meus pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/bush1D3v)!
 
