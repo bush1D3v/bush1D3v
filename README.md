@@ -117,8 +117,8 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 <summary><b>⚡ Status Públicos do Github</b></summary>
 <br>
 <p align="center">
-<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=bush1D3v&show_icons=true&theme=radical&hide"/>
-<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=bush1D3v&layout=compact&langs_count=6&theme=radical&hide"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bush1D3v&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bush1D3v&layout=compact&langs_count=6&theme=radical"/>
 </p>
 </details>
 
