@@ -45,6 +45,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 <div align = "center">
 
+![WhatsApp](https://img.shields.io/badge/-whatsapp-green?style=for-the-badge&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5521995727079&text=Ol%C3%A1%20Victor!%20Vim%20atrav%C3%A9s%20do%20seu%20portf%C3%B3lio,%20teria%20um%20tempo%20para%20conversarmos?)&nbsp;
 <a href="https://www.linkedin.com/in/vj021/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 [![Gmail: Victor Navarro](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:victor.jose.lopes.navarro@gmail.com)](mailto:victor.jose.lopes.navarro@gmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-593D88?style=for-the-badge&logo=frontendmentor&logoColor=white&link=https://www.frontendmentor.io/profile/bush1D3v)](https://www.frontendmentor.io/profile/bush1D3v)&nbsp;
