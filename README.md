@@ -37,9 +37,10 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 ## 📈 Conquistas
 
-- 🎉 Desde 2023 com **Estudos Focados**, sem parar um dia.
+- ☕ Desde 2023 com **Estudos Focados**, sem parar um dia.
 - 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo, Hashtag Programação, Dev Quest, DIO e Cubos Academy**.
 - 🏆 Fui selecionado para participar do **Bootcamp Santander** e passei no processo seletivo de uma **Bolsa do Ifood**.
+- 🎉 Primeiro emprego dev com **8 meses de estudos** em uma das **maiores empresas de software** do Brasil, a **Nasajon**.
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
 
