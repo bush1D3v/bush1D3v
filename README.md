@@ -128,7 +128,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 </details>
 
 <div align="center">
-  <img align="center" src="https://profile-counter.glitch.me/bush1D3v/count.svg" />
+  <img align="center" alt="Contador de visitas de bush1D3v" src="https://profile-counter.glitch.me/bush1D3v/count.svg" />
 </div>
 
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
