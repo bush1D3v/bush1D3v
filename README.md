@@ -128,7 +128,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 </details>
 
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=bush1D3v&repo=bush1D3v&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Victor" height="40px" />
+  <img align="center" src="https://profile-counter.glitch.me/bush1D3v/count.svg" />
 </div>
 
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
