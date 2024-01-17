@@ -49,9 +49,10 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 <a href="https://api.whatsapp.com/send/?phone=5521995727079" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-green?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>&nbsp;
 <a href="https://www.linkedin.com/in/vj021/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 [![Gmail: Victor Navarro](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:victor.jose.lopes.navarro@gmail.com)](mailto:victor.jose.lopes.navarro@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-593D88?style=for-the-badge&logo=frontendmentor&logoColor=white&link=https://www.frontendmentor.io/profile/bush1D3v)](https://www.frontendmentor.io/profile/bush1D3v)&nbsp;
 <a href="https://discord.com/users/443480311066656770" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
-  
+<a href="https://www.twitch.tv/dev_navarro" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>&nbsp;
+<a href="https://www.youtube.com/channel/UC9fwjcVCxHUiuj0Ve3Hs9pA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;
+
 </div>
 
 <div align = "center">
