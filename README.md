@@ -13,7 +13,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 <br>
 
-- 🔭 Estou estudando para me **tornar um Desenvolvedor Fullstack**.
+- 🔭 Estou estudando para me tornar um **Desenvolvedor Fullstack**.
 
 - 🌱 Atualmente estou aprendendo **Princípios de Desenvolvimento**.
 
@@ -21,7 +21,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 - 📫 Como me contatar: **victor.jose.lopes.navarro@gmail.com**.
 
-- 💬 Me pergunte sobre **JavaScript**.
+- 💬 Me pergunte sobre **TypeScript**.
 
 - 🤝 Estou procurando ajuda para aprender sobre **Sites Acessíveis**.
 
@@ -39,7 +39,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 - ☕ Desde 2023 com **Estudos Focados**, sem parar um dia.
 - 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo, Hashtag Programação, Dev Quest, DIO e Cubos Academy**.
-- 🏆 Fui selecionado para participar do **Bootcamp Santander** e passei no processo seletivo de uma **Bolsa do Ifood**.
+- 🏆 Fui selecionado para participar do **Bootcamp Santander** e passei no processo seletivo de duas **Bolsas do Ifood**.
 - 🎉 Primeiro emprego dev com **8 meses de estudos** em uma das **maiores empresas de software** do Brasil, a **Nasajon**.
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
@@ -64,7 +64,6 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 <br>
 
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 </details>
 
 <details open>
@@ -72,8 +71,10 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 <br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)&nbsp;
 </details>
 
 <details open>
@@ -94,12 +95,14 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 ![Nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/sass-deeppink.svg?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)&nbsp;
 </details>
 
 </div>
