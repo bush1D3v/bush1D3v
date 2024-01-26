@@ -60,6 +60,13 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 <h2 align="center">🛠️ Linguagens e Ferramentas</h2>
 
 <details open>
+<summary><b>🏗️ DevOPS</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/docker-%23316192.svg?style=for-the-badge&logo=docker&logoColor=white)
+</details>
+
+<details open>
 <summary><b>🗄️ Database</b></summary>
 <br>
 
