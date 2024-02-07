@@ -13,6 +13,8 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 <br>
 
+- 🎓 Cursando Bacharelado em **Engenharia de Software**
+
 - 🔭 Estou estudando para me tornar um **Desenvolvedor Fullstack**.
 
 - 🌱 Atualmente estou aprendendo **Princípios de Desenvolvimento**.
