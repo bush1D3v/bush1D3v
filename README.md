@@ -1,7 +1,7 @@
 ![Capa Github](https://github.com/bush1D3v/bush1D3v/assets/133554156/25d207da-c518-44ef-971b-9eff80a2b7c6)
 
 <p align="center">
-Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver aplicativos da Web escaláveis, de fácil manutenção e fáceis de usar que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
+Sou um estudante apaixonado por programação web e mobile. Meu objetivo é desenvolver aplicativos escaláveis, de fácil manutenção e fáceis de usar, que forneçam sempre uma experiência de usuário perfeita. Estou constantemente me aprofundando nas minhas tecnologias e frameworks utilizados, para encontrar as melhores soluções para os problemas em questão.
 </p>
 
 ##
