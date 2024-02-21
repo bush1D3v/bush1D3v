@@ -1,4 +1,4 @@
-![Capa Github](https://github.com/bush1D3v/bush1D3v/assets/133554156/a233536b-da44-4024-a472-43524df766e1)
+![Capa Github](https://github.com/bush1D3v/bush1D3v/assets/133554156/18851c7f-7783-491a-be37-407c2cb537d4)
 
 <p align="center">
 Sou um estudante apaixonado por programação web e mobile. Meu objetivo é desenvolver aplicativos escaláveis, de fácil manutenção e fáceis de usar, que forneçam sempre uma experiência de usuário perfeita. Estou constantemente me aprofundando nas minhas tecnologias e frameworks utilizados, para encontrar as melhores soluções para os problemas em questão.
