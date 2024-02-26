@@ -68,6 +68,7 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 ![Docker](https://img.shields.io/badge/docker-%23316192.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 </details>
 
+<details open>
 <summary><b>🗄️ Database</b></summary>
 <br>
 
