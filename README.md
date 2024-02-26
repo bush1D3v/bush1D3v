@@ -62,6 +62,12 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 <h2 align="center">🛠️ Linguagens e Ferramentas</h2>
 
 <details open>
+  <summary><b>🏗️ DevOps</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/docker-%23316192.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+</details>
+
 <summary><b>🗄️ Database</b></summary>
 <br>
 
@@ -91,7 +97,6 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 <br>
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/docker-%23316192.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Figma](https://camo.githubusercontent.com/f9f8a75a6a012b4ae6f2a8a5dd1e9d1284e3dda449adfac42d5a728b0c38170e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45534c696e742d3442333243333f7374796c653d666f722d7468652d6261646765266c6f676f3d65736c696e74266c6f676f436f6c6f723d7768697465)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
