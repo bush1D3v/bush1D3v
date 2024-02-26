@@ -124,7 +124,7 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 </details>
 
 <details open>
-<summary><b> Mobile</b></summary>
+<summary><b>📱 Mobile</b></summary>
 <br>
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
