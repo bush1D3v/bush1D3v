@@ -19,7 +19,7 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 
 - 🌱 Atualmente estou aprendendo **Princípios de Desenvolvimento**.
 
-- 🔍 Dê uma olhada nos meus pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/bush1D3v)!
+- 🔍 Dê uma olhada nos meus projetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/bush1D3v)!
 
 - 📫 Como me contatar: **victor.jose.lopes.navarro@gmail.com**.
 
