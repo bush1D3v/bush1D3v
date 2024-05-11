@@ -17,7 +17,7 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 
 - 🔭 Estou estudando para me tornar um **Desenvolvedor Fullstack**.
 
-- 🌱 Atualmente estou aprendendo **Princípios de Desenvolvimento**.
+- 🌱 Atualmente estou aprendendo **Rust**.
 
 - 🔍 Dê uma olhada nos meus projetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/bush1D3v)!
 
