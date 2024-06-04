@@ -92,7 +92,7 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-<img height='28' width='78' title='Actix' alt='actix' src='https://github.com/bush1D3v/bush1D3v/assets/133554156/b1e79ef7-c351-4e1f-9f34-5e659b595902' />
+<img height='28' width='78' title='Actix' alt='actix' src='https://github.com/bush1D3v/bush1D3v/assets/133554156/92931e97-350c-4425-9234-0f890c308f7b' />
 </details>
 
 <details open>
