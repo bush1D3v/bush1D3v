@@ -1,4 +1,4 @@
-![Capa Github](https://github.com/bush1D3v/navarro_blog_api/assets/133554156/e06b8b47-15a3-4a24-900b-2edf49228ee7)
+![Capa Github](https://github.com/bush1D3v/navarro_blog_api/assets/133554156/2c75a799-6cde-49cc-8305-d798f64fa256)
 
 <p align="center">
 Sou um estudante apaixonado por programação web e mobile. Meu objetivo é desenvolver aplicativos escaláveis, de fácil manutenção e fáceis de usar, que forneçam sempre uma experiência de usuário perfeita. Estou constantemente me aprofundando nas minhas tecnologias e frameworks utilizados, para encontrar as melhores soluções para os problemas em questão.
@@ -17,11 +17,11 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 
 - 🔭 Estou estudando para me tornar um **Especialista Back-end**.
 
-- 🌱 Atualmente estou estudando **Rust**.
+- 🦀 Atualmente estou estudando **Rust**.
 
 - 💬 Me pergunte sobre **TypeScript**.
 
-- 🤝 Sempre buscando ajudar outros desenvolvedores: "Crescemos juntos!".
+- 🚀 Sempre disposto a **ajudar** outros desenvolvedores.
 
 <br>
 <br>
@@ -29,24 +29,25 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 
 ## 🎯 Metas Futuras
 
-- 🧠 Estudar os fundamentos de um **Desenvolvedor Web FullStack de Sucesso**.
+- 🧠 Estudar os fundamentos de um **Desenvolvedor Back-end de Sucesso**.
 - 🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia.
 - 🤖 Construir um projeto do zero que influencie mais pessoas para o mundo da tecnologia, da mesma forma como eu fui.
 
 ## 📈 Conquistas
 
-- ☕ Desde 2023 com **Estudos Focados**, sem parar um dia.
-- 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo, Hashtag Programação, Dev Quest, DIO e Cubos Academy**.
-- 🏆 Fui selecionado para participar do **Bootcamp Santander** e passei no processo seletivo de duas **Bolsas do Ifood**.
+- 🤝 Diversos certificados na área, como cursos do **Descomplica, Dev Quest, DIO, Cubos Academy, Ada Tech**, etc.
+- 🏆 2X **Bootcamp Santander**, 2X **Bolsa do Ifood**, 1X **Bolsa do Mercado Livre**, 1X **Bootcamp Softex**, 1X **DIO Campus Expert**
 - 🎉 Primeiro emprego dev com **8 meses de estudos** em uma das **maiores empresas de software** do Brasil, a **Nasajon**.
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
 
 <div align = "center">
 
+<a href="https://x.com/victorj_021" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>&nbsp;
+<a href="https://www.instagram.com/victorj.021" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
 <a href="https://api.whatsapp.com/send/?phone=5521995727079" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-green?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>&nbsp;
-<a href="https://www.linkedin.com/in/vj021/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-[![Gmail: Victor Navarro](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:victor.jose.lopes.navarro@gmail.com)](mailto:victor.jose.lopes.navarro@gmail.com)&nbsp;
+<a href="https://www.linkedin.com/in/vj021" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+<a href="mailto:victor.jose.lopes.navarro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;
 <a href="https://discord.com/users/443480311066656770" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
 <a href="https://www.twitch.tv/dev_navarro" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>&nbsp;
 <a href="https://www.youtube.com/channel/UC9fwjcVCxHUiuj0Ve3Hs9pA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;
@@ -140,7 +141,7 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 
 <h2 align="center">👨‍💻 Mais Sobre mim no GitHub</h2>
 
-<details>
+<details open>
 <summary><b>🔥 Estatísticas Sequenciais</b></summary>
 <br>
 <p align="center">
@@ -151,7 +152,7 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>⚡ Status Públicos do Github</b></summary>
 <br>
 <p align="center">
