@@ -1,4 +1,4 @@
-![Capa Github](https://github.com/bush1D3v/bush1D3v/assets/133554156/50aa2c67-d5cc-4508-8485-11fbb25fd07c)
+![Capa Github](https://github.com/bush1D3v/navarro_blog_api/assets/133554156/e06b8b47-15a3-4a24-900b-2edf49228ee7)
 
 <p align="center">
 Sou um estudante apaixonado por programação web e mobile. Meu objetivo é desenvolver aplicativos escaláveis, de fácil manutenção e fáceis de usar, que forneçam sempre uma experiência de usuário perfeita. Estou constantemente me aprofundando nas minhas tecnologias e frameworks utilizados, para encontrar as melhores soluções para os problemas em questão.
@@ -15,17 +15,13 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 
 - 🎓 Cursando Bacharelado em **Engenharia de Software**
 
-- 🔭 Estou estudando para me tornar um **Desenvolvedor Fullstack**.
+- 🔭 Estou estudando para me tornar um **Especialista Back-end**.
 
-- 🌱 Atualmente estou aprendendo **Rust**.
-
-- 🔍 Dê uma olhada nos meus projetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/bush1D3v)!
-
-- 📫 Como me contatar: **victor.jose.lopes.navarro@gmail.com**.
+- 🌱 Atualmente estou estudando **Rust**.
 
 - 💬 Me pergunte sobre **TypeScript**.
 
-- 🤝 Estou procurando ajuda para aprender sobre **Sites Acessíveis**.
+- 🤝 Sempre buscando ajudar outros desenvolvedores: "Crescemos juntos!".
 
 <br>
 <br>
@@ -66,6 +62,7 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 <br>
 
 ![Docker](https://img.shields.io/badge/docker-%23316192.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
 </details>
 
 <details open>
