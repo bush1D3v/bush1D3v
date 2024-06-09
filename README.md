@@ -13,7 +13,7 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 
 <br>
 
-- 🎓 Cursando Bacharelado em **Engenharia de Software**
+- 🎓 Cursando Bacharelado em **Engenharia de Software**: 2/8.
 
 - 🔭 Estou estudando para me tornar um **Especialista Back-end**.
 
@@ -22,6 +22,8 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 - 💬 Me pergunte sobre **TypeScript**.
 
 - 🚀 Sempre disposto a **ajudar** outros desenvolvedores.
+
+- 👾 Vem me ver na Roxinha: **https://www.twitch.tv/dev_navarro**.
 
 <br>
 <br>
@@ -45,7 +47,6 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 
 <a href="https://x.com/victorj_021" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>&nbsp;
 <a href="https://www.instagram.com/victorj.021" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
-<a href="https://api.whatsapp.com/send/?phone=5521995727079" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-green?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>&nbsp;
 <a href="https://www.linkedin.com/in/vj021" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 <a href="mailto:victor.jose.lopes.navarro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;
 <a href="https://discord.com/users/443480311066656770" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
