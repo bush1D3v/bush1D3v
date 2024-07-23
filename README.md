@@ -161,11 +161,13 @@ Sou um estudante apaixonado por programação web e mobile. Meu objetivo é dese
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bush1D3v&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bush1D3v&layout=compact&langs_count=6&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=bush1D3v&theme=radical"/>
 </p>
 </details>
 
 <div align="center">
   <img align="center" alt="Contador de visitas de bush1D3v" src="https://profile-counter.glitch.me/bush1D3v/count.svg" />
 </div>
+
 
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
