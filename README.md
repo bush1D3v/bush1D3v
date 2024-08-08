@@ -1,7 +1,7 @@
 ![Capa Github](https://github.com/bush1D3v/navarro_blog_api/assets/133554156/2c75a799-6cde-49cc-8305-d798f64fa256)
 
 <p align="center">
-Sou um estudante apaixonado por programação web e mobile. Meu objetivo é desenvolver aplicativos escaláveis, de fácil manutenção e fáceis de usar, que forneçam sempre uma experiência de usuário perfeita. Estou constantemente me aprofundando nas minhas tecnologias e frameworks utilizados, para encontrar as melhores soluções para os problemas em questão.
+Sou um desenvolvedor apaixonado por programação web e mobile. Meu objetivo é criar aplicativos escaláveis, de fácil manutenção e fáceis de usar, que forneçam sempre uma experiência de usuário perfeita. Estou constantemente me aprofundando nas minhas tecnologias e frameworks utilizados, para encontrar as melhores soluções para os problemas em questão.
 </p>
 
 ##
