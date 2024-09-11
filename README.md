@@ -7,24 +7,23 @@ Sou um desenvolvedor apaixonado por programação web e mobile. Meu objetivo é 
 ##
 
 <br>
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
-
-<br>
-
-- 🎓 Cursando Bacharelado em **Engenharia de Software**: 2/8.
-
-- 🔭 Estou estudando para me tornar um **Especialista Back-end**.
-
-- 🦀 Atualmente estou estudando **Rust**.
-
-- 💬 Me pergunte sobre **TypeScript**.
-
-- 🚀 Sempre disposto a **ajudar** outros desenvolvedores.
-
-- 👾 Vem me ver na Roxinha: **https://www.twitch.tv/dev_navarro**.
-
+<div style="display: flex; justify-content: center; width: 100%;">
+  <table style="border: 0px; width: auto;">
+    <tr style="border: 0px;">
+      <td style="border: 0px; padding-right: 20px;">
+        <p>🎓 Cursando Bacharelado em Engenharia de Software: 2/8.</p>
+        <p>🔭 Estou estudando para me tornar um Especialista Back-end.</p>
+        <p>🦀 Atualmente estou estudando Rust.</p>
+        <p>💬 Me pergunte sobre TypeScript.</p>
+        <p>🚀 Sempre disposto a ajudar outros desenvolvedores.</p>
+        <p>👾 Vem me ver na Roxinha: <a href="https://www.twitch.tv/dev_navarro">https://www.twitch.tv/dev_navarro</a>.</p>
+      </td>
+      <td style="border: 0px;">
+        <img alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
 <br>
 
@@ -109,7 +108,7 @@ Sou um desenvolvedor apaixonado por programação web e mobile. Meu objetivo é 
 <details open>
 <summary><b>🏄‍♂️ Frontend</b></summary>
 <br>
-  
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -150,7 +149,7 @@ Sou um desenvolvedor apaixonado por programação web e mobile. Meu objetivo é 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=bush1D3v&theme=radical&hide_border=true" alt="bush1D3v" width="390"/>
 </p>
 </details>
-  
+
 </p>
 </details>
 
