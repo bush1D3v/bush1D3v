@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por programação web e mobile. Meu objetivo é 
       <td style="border: 0px; padding-right: 20px;">
         <p>🎓 Cursando Bacharelado em Engenharia de Software: 2/8.</p>
         <p>🔭 Estou estudando para me tornar um Especialista Back-end.</p>
-        <p>🦀 Atualmente estou estudando Rust.</p>
+        <p>🦀 Atualmente estou estudando Vue/TypeScript.</p>
         <p>💬 Me pergunte sobre TypeScript.</p>
         <p>🚀 Sempre disposto a ajudar outros desenvolvedores.</p>
         <p>👾 Vem me ver na Roxinha: <a href="https://www.twitch.tv/dev_navarro">https://www.twitch.tv/dev_navarro</a>.</p>
