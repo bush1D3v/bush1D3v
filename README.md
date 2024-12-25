@@ -11,9 +11,9 @@ Sou um desenvolvedor apaixonado por programação web e mobile. Meu objetivo é 
   <table style="border: 0px; width: auto;">
     <tr style="border: 0px;">
       <td style="border: 0px; padding-right: 20px;">
-        <p>🎓 Cursando Bacharelado em Engenharia de Software: 2/8.</p>
-        <p>🔭 Estou estudando para me tornar um Especialista Back-end.</p>
-        <p>🦀 Atualmente estou estudando Vue/TypeScript.</p>
+        <p>🎓 Cursando Bacharelado em Engenharia de Software: 3/8.</p>
+        <p>🦀 Estou estudando por hobby a linguagem Rust</p>
+        <p>🔭 Atualmente estou estudando Vue/TypeScript.</p>
         <p>💬 Me pergunte sobre TypeScript.</p>
         <p>🚀 Sempre disposto a ajudar outros desenvolvedores.</p>
         <p>👾 Vem me ver na Roxinha: <a href="https://www.twitch.tv/dev_navarro">https://www.twitch.tv/dev_navarro</a>.</p>
@@ -30,16 +30,16 @@ Sou um desenvolvedor apaixonado por programação web e mobile. Meu objetivo é 
 
 ## 🎯 Metas Futuras
 
-- 🧠 Estudar os fundamentos de um **Desenvolvedor Backend de Sucesso**.
+- 🧠 Estudar os fundamentos de um **Desenvolvedor Full-Stack de Sucesso**.
 - 🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia.
 - 🤖 Construir um projeto do zero que influencie mais pessoas para o mundo da tecnologia, da mesma forma como eu fui.
 
 ## 📈 Conquistas
 
 - 🎉 Primeiro emprego dev com **8 meses de estudos** em uma das **maiores empresas de software** do Brasil, a **Nasajon**.
-- 🏆 2X **Bootcamp Santander**, 2X **Bolsa do Ifood**, 1X **Bolsa do Mercado Livre**, 1X **Bootcamp Softex**, 1X **DIO Campus Expert**
+- 🏆 2X **Bootcamp Santander**, 2X **Bolsa Ifood**, 1X **Bolsa Mercado Livre**, 1X **Bootcamp Softex**, 1X **DIO Campus Expert**
 - 🤝 Diversos certificados na área, como cursos do **Descomplica, Dev Quest, DIO, Cubos Academy, Ada Tech**, etc.
-- 💡 Top Voice Linkedin em Desenvolvimento Web em 2024
+- 💡 Top Voice Linkedin em **Desenvolvimento Web** em 2024
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
 
