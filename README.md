@@ -37,8 +37,7 @@ Sou um desenvolvedor apaixonado por programação web e mobile. Meu objetivo é 
 ## 📈 Conquistas
 
 - 🎉 Primeiro emprego dev com **8 meses de estudos** em uma das **maiores empresas de software** do Brasil, a **Nasajon**.
-- 🏆 2X **Bootcamp Santander**, 2X **Bolsa Ifood**, 1X **Bolsa Mercado Livre**, 1X **Bootcamp Softex**, 1X **DIO Campus Expert**
-- 🤝 Diversos certificados na área, como cursos do **Descomplica, Dev Quest, DIO, Cubos Academy, Ada Tech**, etc.
+- 🤝 Diversos certificados na área, como cursos do **Descomplica, Cubos Academy, Ada Tech**, etc.
 - 💡 Top Voice Linkedin em **Desenvolvimento Web** em 2024
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
