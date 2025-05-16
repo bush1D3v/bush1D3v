@@ -1,4 +1,6 @@
-![Capa Github](https://github.com/bush1D3v/navarro_blog_api/assets/133554156/2c75a799-6cde-49cc-8305-d798f64fa256)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7dcc3985-1b80-4d84-b582-ccbbfd391df4" alt="Logo do desenvolvedor" />
+</div>
 
 <p align="center">
 Sou um desenvolvedor apaixonado por programação web e mobile. Meu objetivo é criar aplicativos escaláveis, de fácil manutenção e fáceis de usar, que forneçam sempre uma experiência de usuário perfeita. Estou constantemente me aprofundando nas minhas tecnologias e frameworks utilizados, para encontrar as melhores soluções para os problemas em questão.
@@ -11,8 +13,8 @@ Sou um desenvolvedor apaixonado por programação web e mobile. Meu objetivo é 
   <table style="border: 0px; width: auto;">
     <tr style="border: 0px;">
       <td style="border: 0px; padding-right: 20px;">
-        <p>🎓 Cursando Bacharelado em Engenharia de Software: 3/8.</p>
-        <p>🦀 Estou estudando por hobby a linguagem Rust</p>
+        <p>🎓 Cursando Bacharelado em Engenharia de Software: 4/8.</p>
+        <p>🤖 Estudando Game Development com Godot por hobby</p>
         <p>🔭 Atualmente estou estudando Vue/TypeScript.</p>
         <p>💬 Me pergunte sobre TypeScript.</p>
         <p>🚀 Sempre disposto a ajudar outros desenvolvedores.</p>
