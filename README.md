@@ -13,11 +13,11 @@ Sou um desenvolvedor apaixonado por programação web e mobile. Meu objetivo é 
   <table style="border: 0px; width: auto;">
     <tr style="border: 0px;">
       <td style="border: 0px; padding-right: 20px;">
-        <p>🎓 Cursando Bacharelado em Engenharia de Software: 4/8.</p>
-        <p>🤖 Estudando Game Development com Godot por hobby</p>
+        <p>🎓 Cursando Bacharelado em Engenharia de Software: 5/8.</p>
         <p>🔭 Atualmente estou estudando Vue/TypeScript.</p>
         <p>💬 Me pergunte sobre TypeScript.</p>
         <p>🚀 Sempre disposto a ajudar outros desenvolvedores.</p>
+        <p>🔴 Meu hobby é colecionar Pokémon TCG e participar de ligas presencialmente.</p>
         <p>👾 Vem me ver na Roxinha: <a href="https://www.twitch.tv/dev_navarro">https://www.twitch.tv/dev_navarro</a>.</p>
       </td>
       <td style="border: 0px;">
