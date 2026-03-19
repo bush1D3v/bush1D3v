@@ -32,15 +32,16 @@ Sou um desenvolvedor apaixonado por programação web e mobile. Meu objetivo é 
 
 ## 🎯 Metas Futuras
 
-- 🧠 Estudar os fundamentos de um **Desenvolvedor Full-Stack de Sucesso**.
-- 🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia.
-- 🤖 Construir um projeto do zero que influencie mais pessoas para o mundo da tecnologia, da mesma forma como eu fui.
+- 🧠 Continuar estudando os fundamentos de um **Desenvolvedor Full-Stack de Sucesso**, afinal, nós desenvolvedores sempre temos o que melhorar!
+- 🌟 Poder realizar palestras e participar de podcasts, expandindo ainda mais minha voz e alcance na missão de democratizar ao máximo o acesso a conteúdo técnico gratuito de programação.
 
 ## 📈 Conquistas
 
 - 🎉 Primeiro emprego dev com **8 meses de estudos** em uma das **maiores empresas de software** do Brasil, a **Nasajon**.
 - 🤝 Diversos certificados na área, como cursos do **Descomplica, Cubos Academy, Ada Tech**, etc.
 - 💡 Top Voice Linkedin em **Desenvolvimento Web** em 2024
+- 🤖 Meu maior projeto que segue sendo atualizado há mais de 2 anos, ajudando pessoas a entenderem o mundo dos investimentos digitais: <a href="nei-market-analytics.com.br">NEI Market Analytics</a>.
+- 📸 +10K No YouTube, há mais de 2 anos criando cursos gratuitos e compartilhando conhecimento técnico gratuito: <a href="https://www.youtube.com/@dev_navarro">@dev_navarro</a>
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
 
