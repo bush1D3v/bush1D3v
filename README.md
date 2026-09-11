@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por programação web e mobile. Meu objetivo é 
   <table style="border: 0px; width: auto;">
     <tr style="border: 0px;">
       <td style="border: 0px; padding-right: 20px;">
-        <p>🎓 Cursando Bacharelado em Engenharia de Software: 5/8.</p>
+        <p>🎓 Cursando Bacharelado em Engenharia de Software: 6/8.</p>
         <p>🔭 Atualmente estou estudando Vue/TypeScript.</p>
         <p>💬 Me pergunte sobre TypeScript.</p>
         <p>🚀 Sempre disposto a ajudar outros desenvolvedores.</p>
